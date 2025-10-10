@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Angular Developer<br>- Content Creator at @bq_tech<br>- Software Developer at @Maxicon</p>
+<p align="left">- Fullstack Developer | Especialista em Angular, React, Node, Java | Design System, Clean Architecture & UI/UX<br>- Content Creator at @bq_tech</p>
 
 ###
 
