@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Fullstack Developer | Especialista em Angular, React, Node, Java | Design System, Clean Architecture & UI/UX<br>- Content Creator at @bq_tech</p>
+<p align="left">- Fullstack Developer <br>- Especialista em Angular, React, Node, Java<br>- Design System, Clean Architecture & UI/UX<br>- Content Creator at @bq_tech</p>
 
 ###
 
