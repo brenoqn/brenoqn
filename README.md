@@ -112,6 +112,7 @@ const breno = {
     "International opportunities"
   ]
 };
+```
 
 ---
 
