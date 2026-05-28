@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Breno Queiroz 👋</h1>
 
 <p align="left">
-  <strong>Full Stack Developer | Angular • TypeScript • Java • Spring Boot • Micro Frontends</strong>
+  <strong>Full Stack Developer focused on Angular, TypeScript, Java, Spring Boot and scalable enterprise systems.</strong>
 </p>
 
 <p align="left">
-  I build scalable enterprise applications, modern frontend architectures, reusable UI libraries, and backend integrations focused on performance, maintainability, and business impact.
+  I work with enterprise application modernization, Micro Frontends, reusable UI libraries, REST APIs, and frontend architectures designed for performance, maintainability, and business impact.
 </p>
 
 ---
@@ -112,3 +112,58 @@ const breno = {
     "International opportunities"
   ]
 };
+
+---
+
+## Projects & Portfolio
+
+Here are some areas I usually explore in my repositories:
+
+- Angular applications with scalable architecture
+- Full stack applications using Angular, Java, and Spring Boot
+- UI component libraries and Design System concepts
+- REST API integrations and backend services
+- Frontend performance, maintainability, and clean code practices
+- Experiments with modern web development and product-oriented interfaces
+
+> More public projects and case studies are being organized and documented.
+
+---
+
+## GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenoqn&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoqn&layout=compact&langs_count=6&theme=blue-green&hide_border=false" height="160" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoqn&radius=16&theme=one-dark&area=true&hide_border=false" height="300" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/brenoqn01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Breno%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/brenoqn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-brenoqn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:brenoqn01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-brenoqn01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/bq_tech" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@bq__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<p align="left">
+  Open to international opportunities focused on Angular, Java, Spring Boot, frontend architecture, and scalable enterprise systems.
+</p>
