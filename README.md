@@ -131,18 +131,23 @@ Here are some areas I usually explore in my repositories:
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenoqn&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoqn&layout=compact&langs_count=6&theme=blue-green&hide_border=false" height="160" alt="Top Languages" />
-</div>
+<p align="left">
+  My GitHub is currently being organized to better reflect my professional work with Angular, Java, Spring Boot, Micro Frontends, reusable libraries, and scalable enterprise applications.
+</p>
 
-<br />
+<p align="left">
+  Most of my recent work has been focused on private enterprise repositories, including ERP modernization, internal component libraries, REST API integrations, CI/CD pipelines, and frontend architecture improvements.
+</p>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoqn&radius=16&theme=one-dark&area=true&hide_border=false" height="300" alt="GitHub Activity Graph" />
-</div>
+### What you will find here
+
+- Public experiments with Angular, TypeScript, React, Java, and Node.js
+- Frontend architecture studies and UI-focused projects
+- Full stack application examples
+- Portfolio and product-oriented interfaces
+- Repositories being progressively documented and improved
 
 ---
 
@@ -162,6 +167,12 @@ Here are some areas I usually explore in my repositories:
     <img src="https://img.shields.io/badge/Instagram-@bq__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+---
+
+<p align="left">
+  Open to international opportunities focused on Angular, Java, Spring Boot, frontend architecture, and scalable enterprise systems.
+</p>
 
 ---
 
