@@ -175,7 +175,3 @@ Here are some areas I usually explore in my repositories:
 </p>
 
 ---
-
-<p align="left">
-  Open to international opportunities focused on Angular, Java, Spring Boot, frontend architecture, and scalable enterprise systems.
-</p>
