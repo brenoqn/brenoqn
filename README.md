@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with 4+ years of experience building and modernizing enterprise applications.
+I'm a Full Stack Developer with 5+ years of experience building and modernizing enterprise applications.
 
 Currently, I work on the modernization of the Maxys® ERP at Maxicon Sistemas, migrating legacy Oracle Forms applications to scalable Angular + Spring Boot architectures, contributing to Micro Frontend strategies, reusable component libraries, REST APIs, and enterprise workflow optimization.
 
